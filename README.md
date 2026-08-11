@@ -8,12 +8,13 @@ Script was generated with the help of AI.
 
 This was initiated due to that FortiConverter requires to purchase license.
 
-Script executed using **Python 3.13.12**
+Script executed using **Python 3.13.12** version
 
 Feel free to download and modify the file according to your needs. 
 
 Have a great day migrating:)
-**
-Note: Test on a lab before applying on prodcution.**
+
+
+**Note: Test on a lab before applying on prodcution.**
 
 
